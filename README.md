@@ -11,7 +11,7 @@ Integrate Edviron's payment collection functionality into your website using the
 Place this inside your HTML `<head>` or just before the closing `</body>` tag:
 
 ```html
-<script src="https://edviron.com/collect.js"></script>
+<script src="https://edviron.in/collect.js"></script>
 ```
 
 ### Step 2: Initialize and Collect Payment
